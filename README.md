@@ -23,6 +23,7 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [MiniAmp](https://github.com/snyderman3000/miniamp/releases) | App | Playable | Free | snyderman3000 |
 | [Mixtape](https://github.com/snyderman3000/mixtape/releases) | App | Playable | Free | snyderman3000 |
 | [Miyonos](https://github.com/ElijahTowers/Miyonos/releases) | App | Experimental | Free | ElijahTowers |
+| [Miyoo Better Favorites](https://github.com/Architeg/miyoo-better-favorites/releases) | App | Playable | Free | Architeg |
 | [miyoo-htop](https://github.com/allanxp4/miyoo-htop/releases) | App | Playable | Free | allanxp4 |
 | [MiyooAudiobook](https://github.com/smonbon/MiyooAudiobook/releases) | App | Playable | Free | smonbon |
 | [miyoodeck](https://github.com/mkl159/miyoodeck/releases) | App | Playable | Free | mkl159 |

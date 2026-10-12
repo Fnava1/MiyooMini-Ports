@@ -610,6 +610,16 @@
       "image": "https://raw.githubusercontent.com/Architeg/miyoo-better-favorites/5a2e26f5bd2663d602d7cfbe5b779014b7a437b7/assets/game-list.jpg",
       "notes": "Favorites grouped by console, scrolling titles and optional Home access/GameSwitcher return. Use the included computer installer. Tested on Mini Plus with Onion 4.3.1-1; other devices unverified.",
       "porter": ["Architeg"]
+    },
+    {
+      "name": "UFO 50",
+      "categories": ["arcade", "platform", "puzzle", "rpg"],
+      "status": "prerelease",
+      "assets": "owned",
+      "upstream": "https://github.com/Producdevity/ufo50-miyoo-mini-port/releases",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1147860/header.jpg",
+      "notes": "Development build for OnionOS. Copy your Windows UFO 50 game files to Roms/PORTS/Games/UFO50/gamefiles, with data.win directly inside.",
+      "porter": ["Producdevity"]
     }
   ]
 }

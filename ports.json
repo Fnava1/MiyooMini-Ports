@@ -630,6 +630,16 @@
       "image": "https://raw.githubusercontent.com/cacuracaptors/uhexen2-miyoomini/6ac865077583482c9c8216f27aba0822db77fabf/docs/images/cover.png",
       "notes": "uHexen2 (Hammer of Thyrion) with the original software renderer spread over both cores; 640x480 3D view, 50-60 FPS. Requires the GOG version: supply everything in its data1 folder (required) and, optionally, its music folder (Track02.ogg to Track17.ogg) for the CD soundtrack.",
       "porter": ["cacuracaptors"]
+    },
+    {
+      "name": "SkiFree",
+      "categories": ["arcade"],
+      "status": "playable",
+      "assets": "free",
+      "upstream": "https://github.com/cacuracaptors/skifree-miyoomini/releases",
+      "image": "https://raw.githubusercontent.com/cacuracaptors/skifree-miyoomini/35e547a4b3a157073daf2aa9d9a737f54a0ad150/docs/images/cover.png",
+      "notes": "Based on the SkiFree decompilation and Slayer366's SDL2 source port. Ready to run: extract the zip to the SD card root, nothing to supply. 60 fps at the original game speed (Menu+Start switches to the original 25 fps); High Scores with name entry (Menu+Select).",
+      "porter": ["cacuracaptors"]
     }
   ]
 }

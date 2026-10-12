@@ -628,6 +628,7 @@ main.wrap {
   color: var(--ink-dim);
   font-size: 14px;
   margin: 8px 0 0;
+  overflow-wrap: anywhere;
 }
 
 .empty {

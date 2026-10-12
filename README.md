@@ -23,6 +23,7 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [MiniAmp](https://github.com/snyderman3000/miniamp/releases) | App | Playable | Free | snyderman3000 |
 | [Mixtape](https://github.com/snyderman3000/mixtape/releases) | App | Playable | Free | snyderman3000 |
 | [Miyonos](https://github.com/ElijahTowers/Miyonos/releases) | App | Experimental | Free | ElijahTowers |
+| [Miyoo Better Favorites](https://github.com/Architeg/miyoo-better-favorites/releases) | App | Playable | Free | Architeg |
 | [miyoo-htop](https://github.com/allanxp4/miyoo-htop/releases) | App | Playable | Free | allanxp4 |
 | [MiyooAudiobook](https://github.com/smonbon/MiyooAudiobook/releases) | App | Playable | Free | smonbon |
 | [miyoodeck](https://github.com/mkl159/miyoodeck/releases) | App | Playable | Free | mkl159 |
@@ -46,9 +47,11 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [3D Pinball Space Cadet](https://github.com/cacuracaptors/spacecadetpinball-miyoomini/releases) | Arcade | Playable | Owned data | cacuracaptors |
 | [joyrider3774 games](https://github.com/joyrider3774/miyoo_mini_games/releases) | Arcade, Puzzle | Playable | Free | Willems Davy |
 | [Tennis vs Zombies](https://github.com/gutospinelli/TennisVsZombies-MiyooMini/releases) | Arcade | Playable | Free | Augusto Spinelli |
+| [UFO 50](https://github.com/Producdevity/ufo50-miyoo-mini-port/releases) | Arcade, Platform, Puzzle, RPG | Prerelease | Owned data | Producdevity | EmuReady |
 | [FreeJ2ME](https://github.com/aweigit/freej2me-miyoomini/releases) | Engine | Playable | Owned data | aweigit |
 | [ONScripter-jh](https://github.com/weimingtom/onscripter-jh-miyoo-mini-plus) | Engine | Source only | Owned data | weimingtom |
 | [Half-Life](https://github.com/IC-0n417/half-life-miyoo-mini-plus/releases) | FPS | Prerelease | Owned data | IC-0n417 |
+| [Hexen II](https://github.com/cacuracaptors/uhexen2-miyoomini/releases) | FPS | Playable | Owned data | cacuracaptors |
 | [Quake II](https://github.com/Apaczer/quake2-miyoo/releases) | FPS | Playable | Owned data | Apaczer |
 | [Captain Claw](https://github.com/ArticlessCZ-Coder/captain-claw-miyoo/releases) | Platform | Playable | Owned data | ArticlessCZ-Coder |
 | [Jazz Jackrabbit 2](https://github.com/ArticlessCZ-Coder/jazz2-miyoo/releases) | Platform | Playable | Owned data | ArticlessCZ-Coder |

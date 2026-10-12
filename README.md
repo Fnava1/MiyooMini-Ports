@@ -51,6 +51,7 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [FreeJ2ME](https://github.com/aweigit/freej2me-miyoomini/releases) | Engine | Playable | Owned data | aweigit |
 | [ONScripter-jh](https://github.com/weimingtom/onscripter-jh-miyoo-mini-plus) | Engine | Source only | Owned data | weimingtom |
 | [Half-Life](https://github.com/IC-0n417/half-life-miyoo-mini-plus/releases) | FPS | Prerelease | Owned data | IC-0n417 |
+| [Hexen II](https://github.com/cacuracaptors/uhexen2-miyoomini/releases) | FPS | Playable | Owned data | cacuracaptors |
 | [Quake II](https://github.com/Apaczer/quake2-miyoo/releases) | FPS | Playable | Owned data | Apaczer |
 | [Captain Claw](https://github.com/ArticlessCZ-Coder/captain-claw-miyoo/releases) | Platform | Playable | Owned data | ArticlessCZ-Coder |
 | [Jazz Jackrabbit 2](https://github.com/ArticlessCZ-Coder/jazz2-miyoo/releases) | Platform | Playable | Owned data | ArticlessCZ-Coder |

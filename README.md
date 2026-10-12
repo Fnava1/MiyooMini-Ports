@@ -23,6 +23,7 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [MiniAmp](https://github.com/snyderman3000/miniamp/releases) | App | Playable | Free | snyderman3000 |
 | [Mixtape](https://github.com/snyderman3000/mixtape/releases) | App | Playable | Free | snyderman3000 |
 | [Miyonos](https://github.com/ElijahTowers/Miyonos/releases) | App | Experimental | Free | ElijahTowers |
+| [Miyoo Better Favorites](https://github.com/Architeg/miyoo-better-favorites/releases) | App | Playable | Free | Architeg |
 | [miyoo-htop](https://github.com/allanxp4/miyoo-htop/releases) | App | Playable | Free | allanxp4 |
 | [MiyooAudiobook](https://github.com/smonbon/MiyooAudiobook/releases) | App | Playable | Free | smonbon |
 | [miyoodeck](https://github.com/mkl159/miyoodeck/releases) | App | Playable | Free | mkl159 |
@@ -45,10 +46,13 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [wthr](https://github.com/trashplusplus/wthr/releases) | App | Playable | Free | trashplusplus |
 | [3D Pinball Space Cadet](https://github.com/cacuracaptors/spacecadetpinball-miyoomini/releases) | Arcade | Playable | Owned data | cacuracaptors |
 | [joyrider3774 games](https://github.com/joyrider3774/miyoo_mini_games/releases) | Arcade, Puzzle | Playable | Free | Willems Davy |
+| [SkiFree](https://github.com/cacuracaptors/skifree-miyoomini/releases) | Arcade | Playable | Free | cacuracaptors |
 | [Tennis vs Zombies](https://github.com/gutospinelli/TennisVsZombies-MiyooMini/releases) | Arcade | Playable | Free | Augusto Spinelli |
+| [UFO 50](https://github.com/Producdevity/ufo50-miyoo-mini-port/releases) | Arcade, Platform, Puzzle, RPG | Prerelease | Owned data | Producdevity | EmuReady |
 | [FreeJ2ME](https://github.com/aweigit/freej2me-miyoomini/releases) | Engine | Playable | Owned data | aweigit |
 | [ONScripter-jh](https://github.com/weimingtom/onscripter-jh-miyoo-mini-plus) | Engine | Source only | Owned data | weimingtom |
 | [Half-Life](https://github.com/IC-0n417/half-life-miyoo-mini-plus/releases) | FPS | Prerelease | Owned data | IC-0n417 |
+| [Hexen II](https://github.com/cacuracaptors/uhexen2-miyoomini/releases) | FPS | Playable | Owned data | cacuracaptors |
 | [Quake II](https://github.com/Apaczer/quake2-miyoo/releases) | FPS | Playable | Owned data | Apaczer |
 | [Captain Claw](https://github.com/ArticlessCZ-Coder/captain-claw-miyoo/releases) | Platform | Playable | Owned data | ArticlessCZ-Coder |
 | [Jazz Jackrabbit 2](https://github.com/ArticlessCZ-Coder/jazz2-miyoo/releases) | Platform | Playable | Owned data | ArticlessCZ-Coder |
@@ -58,6 +62,7 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [Frozen Bubble](https://github.com/mehdisadeghi/frozen-bubble-onion/releases) | Puzzle, Arcade | Playable | Free | mehdisadeghi |
 | [Panel Attack](https://github.com/snyderman3000/panelattack-miyoo/releases) | Puzzle | Playable | Free | snyderman3000 |
 | [Petals Around the Rose](https://github.com/schizophreek/petals/releases) | Puzzle | Playable | Free | schizophreek |
+| [Zuma Deluxe](https://github.com/Fnava1/zuma-deluxe-miyoo) | Puzzle | Experimental | Owned data | Fnava1 |
 | [Elasto Mania](https://github.com/neri-rnd/elma-miyoo/releases) | Racing, Platform | Playable | Owned data | neri-rnd |
 | [Super Haxagon](https://github.com/RedTopper/Super-Haxagon/releases) | Reflex | Playable | Free | RedTopper |
 | [Fallout](https://github.com/cacuracaptors/fallout1-ce-miyoomini/releases) | RPG | Playable | Owned data | cacuracaptors |

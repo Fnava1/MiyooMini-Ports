@@ -64,6 +64,7 @@ Live site: <https://producdevity.github.io/MiyooMini-Ports/>
 | [Petals Around the Rose](https://github.com/schizophreek/petals/releases) | Puzzle | Playable | Free | schizophreek |
 | [Zuma Deluxe](https://github.com/Fnava1/zuma-deluxe-miyoo) | Puzzle | Experimental | Owned data | Fnava1 |
 | [Elasto Mania](https://github.com/neri-rnd/elma-miyoo/releases) | Racing, Platform | Playable | Owned data | neri-rnd |
+| [Mario Kart 64](https://github.com/cacuracaptors/mk64-miyoomini/releases) | Racing | Playable | Owned data | cacuracaptors |
 | [Super Haxagon](https://github.com/RedTopper/Super-Haxagon/releases) | Reflex | Playable | Free | RedTopper |
 | [Fallout](https://github.com/cacuracaptors/fallout1-ce-miyoomini/releases) | RPG | Playable | Owned data | cacuracaptors |
 | [Fallout 2](https://github.com/cacuracaptors/fallout2-ce-miyoomini/releases) | RPG | Playable | Owned data | cacuracaptors |

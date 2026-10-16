@@ -650,6 +650,16 @@
       "image": "https://raw.githubusercontent.com/Fnava1/zuma-deluxe-miyoo/9f5ffddfd7085119c487e9e062bd16fd2bfaa54f/packaging/Roms/PORTS/Imgs/cover.png",
       "notes": "Untested on the original Mini. Supply your PC assets through the GUI builder, or prepare main.pak and the converted music/zuma.it soundtrack manually.",
       "porter": ["Fnava1"]
+    },
+    {
+      "name": "Mario Kart 64",
+      "categories": ["racing"],
+      "status": "playable",
+      "assets": "owned",
+      "upstream": "https://github.com/cacuracaptors/mk64-miyoomini/releases",
+      "image": "https://raw.githubusercontent.com/cacuracaptors/mk64-miyoomini/19a74afb49488f2430a9c0d8a3e08d561e8bb104/docs/images/cover.png",
+      "notes": "jnmartin84's mk64-dc (Dreamcast port of the Mario Kart 64 decompilation) with a dual-core software renderer: 640x480, 60 FPS single-player races, no overclock. Supply your own Mario Kart 64 (USA) ROM (.z64, .n64, .v64 or zipped); the game data is built from it on the first start. Save states and Game Switcher.",
+      "porter": ["cacuracaptors"]
     }
   ]
 }

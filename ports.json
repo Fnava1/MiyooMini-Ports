@@ -668,7 +668,7 @@
       "assets": "owned",
       "upstream": "https://github.com/Fnava1/pvz-portable-miyoo-/releases",
       "image": "https://raw.githubusercontent.com/Fnava1/pvz-portable-miyoo-/main/packaging/Roms/PORTS/Imgs/Plants%20vs.%20Zombies.png",
-      "notes": "Untested on the original Mini. Copy your main.pak file from the PC game folder to Roms/PORTS/Games/Plants vs. Zombies/ or use the launcher.py on PC.",
+      "notes": "Untested on the original Mini. Copy main.pak and the properties/ folder from your PC game to Roms/PORTS/Games/Plants vs. Zombies/ or use Launcher.py on PC.",
       "porter": ["Fnava1"]
     }
   ]
